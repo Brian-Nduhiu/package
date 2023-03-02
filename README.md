@@ -2,8 +2,9 @@
 
 # Installation
 
+```shell
 npm i nduhiu-npm
-
+```
 # Usage
 
 ```js
