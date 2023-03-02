@@ -1,4 +1,4 @@
-<span style="color: blue;">
+
 
 # Installation
 
@@ -13,4 +13,4 @@ hello("nduhiu"); // returns "Nduhiu"
 
 hello("sdcsef"); // returns false
 
-</span>
+
