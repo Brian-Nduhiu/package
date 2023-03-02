@@ -8,7 +8,7 @@ npm i nduhiu-npm
 # Usage
 
 ```js
-const { hello } = require('nduhiu-npm');
+const  hello  = require('nduhiu-npm');
 
 hello("nduhiu"); // returns "Nduhiu"
 
